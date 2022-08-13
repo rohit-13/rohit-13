@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center"> A Backend developer & currently a under-graduate college student @NIT-Hamirpur </h3>
+<h3 align="center">  I'm a  UG student @NIT_HAMIRPUR pursuing B.Tech in Computer Science & Engineering!</h3>
 
 
 
