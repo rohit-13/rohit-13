@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">  I'm an  UG student @NIT_HAMIRPUR pursuing B.Tech in Computer Science & Engineering!</h3>
+<h2 align="center">  I'm an  UG student @NIT_HAMIRPUR pursuing B.Tech in Computer Science & Engineering!</h3>
 
 
 
